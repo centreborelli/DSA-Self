@@ -1,7 +1,6 @@
 # Self-supervised multi-image super-resolution for push-frame satellite images
 
-### authors
-Ngoc Long Nguyen, Jérémy Anger, Axel Davy,  Pablo Arias, and Gabriele Facciolo
+#### Ngoc Long Nguyen, Jérémy Anger, Axel Davy,  Pablo Arias, and Gabriele Facciolo
 
 ## WACV 2021
 
