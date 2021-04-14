@@ -2,7 +2,7 @@
 
 #### Ngoc Long Nguyen, Jérémy Anger, Axel Davy,  Pablo Arias, and Gabriele Facciolo
 
-### WACV 2021
+### CVPR Workshop Earthvision 2021
 
 -------------------
 
