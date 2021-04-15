@@ -13,4 +13,4 @@ Recent constellations of optical satellites are adopting multi-image super-resol
 
 ### Data
 
-[download Skysat L1A stacks](https://github.com/cmla/DSA-Self/archive/refs/tags/v1.zip)
+[download Skysat L1A stacks](https://github.com/cmla/DSA-Self/releases/download/v1/DSA-Self-real-L1A-dataset.zip)
